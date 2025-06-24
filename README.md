@@ -21,3 +21,9 @@
 
 ---
 
+
+### 📈 GitHub Stats
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=YahyaAeyaaa&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YahyaAeyaaa&layout=compact&theme=tokyonight" />
+</p>
