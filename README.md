@@ -16,13 +16,8 @@
 
 ### 🛠 Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,nodejs,mysql,mysqli,php,tailwind,figma,git" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,nodejs,mysql,php,tailwind,figma,git" />
 </p>
 
 ---
 
-### 📈 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=YahyaAeyaaa&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YahyaAeyaaa&layout=compact&theme=tokyonight" />
-</p>
